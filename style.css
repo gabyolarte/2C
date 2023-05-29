@@ -3,13 +3,6 @@ header{
     color: # 3E6242;
  }
  
-    align-items: center;
- }
- .estudante {
-    align-items: start;
- }
- .turma {
-    align-items: end;
- }
+    .cabecalho-imagem{
  
  
