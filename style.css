@@ -8,6 +8,8 @@
    color: # 3E6242;
    display: flex;
    justify-content: space-around;
+   align-items:center;
+   padding: 24px 0;
 }
 
  .cabecalho-imagem {
