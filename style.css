@@ -2,6 +2,7 @@
     background-color:#84A6FF;
     color: # 3E6242;
     display: flex;
+    justify-content: space-around;
  }
  
   .cabecalho-imagem {
