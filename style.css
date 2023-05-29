@@ -20,4 +20,13 @@ width: 20%;
      display:inline-block
      margin: 0 16px;
      font-size: 24px;
-  } 
+  } } .escola-imagem{
+      width: 10%;
+   }
+   .escola{
+      background-image: linear-gradient(linear-gradient(#424E61,#84a6ff);
+   }
+    .escola{
+      background-image: #84a6ff;
+      color: #0e029a;
+  }
